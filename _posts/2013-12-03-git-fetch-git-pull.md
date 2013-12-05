@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git fetch和git pull的区别"
-categories: "代码"
+categories: "技术"
 comments: true
 date: 2013-10-02 19:57
 tags: git
