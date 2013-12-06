@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : MyDF in Github
+title : MyDF in GitHub
 tagline: 任凭弱水三千，我只取一瓢饮。
 author :
   name : MyDF
