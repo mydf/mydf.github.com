@@ -17,7 +17,7 @@ tags: git
     git commit -m "repo"
 ###密码：   
   在home目录下建立一个文件名为：.netrc的文件，把<https://code.google.com/hosting/settings>上的登录名和密码复制粘贴到文件中，形如:      
-    machine code.google.com login ybjqx3340@gmail.com password ytkGJ3fh23fkd 
+    machine code.google.com login bjaky3801@gmail.com password ytkGJ3fh23fkd 
 ###代理：   
     git config --global http.proxy "127.0.0.1:8087"   
 ###上传：   
