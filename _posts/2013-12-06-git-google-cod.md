@@ -15,12 +15,11 @@ tags: git
     git add . 
 ###提交：  
     git commit -m "repo"
-###密码：
-  在home目录下建立一个文件名为：.netrc的文件，把 https://code.google.com/hosting/settings 上的登录名和密码复制粘贴到文件中，形如：  
-      machine code.google.com login ybjqx3340@gmail.com password ytkGJ3fh23fkd 
+###密码：  
+  在home目录下建立一个文件名为：.netrc的文件，把https://code.google.com/hosting/settings上的登录名和密码复制粘贴到文件中，形如：    
+    machine code.google.com login ybjqx3340@gmail.com password ytkGJ3fh23fkd 
 ###代理：  
-中国特色，别忘了googlecod是被墙的，这时需要用到goagent，在终端输入：  
     git config --global http.proxy "127.0.0.1:8087"   
 ###上传：  
     git push https://code.google.com/p/lee-lemmatizer/ master 
-这时你会看到输出告诉你正在上传，搞定。
+这时你会看到输出告诉你正在上传，搞定。  
