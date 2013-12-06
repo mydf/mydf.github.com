@@ -21,5 +21,5 @@ tags: git
 ###代理：   
     git config --global http.proxy "127.0.0.1:8087"   
 ###上传：   
-    git push https://code.google.com/p/lee-lemmatizer/ master 
+    git push https://code.google.com/p/YOUPROJECT/ master 
 这时你会看到输出告诉你正在上传，搞定。  
