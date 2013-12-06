@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MyDF in Github
+title: MyDF in GitHub
 ---
 {% include JB/setup %}
 
