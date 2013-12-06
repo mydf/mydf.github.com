@@ -7,7 +7,7 @@ categories: "网络"
 tags: [墙,lantern]
 ---
 
-近日一款叫做[Lantern](http://mydf.github.io/blog/lantern-file/)的P2P网络封锁突破工具进入了中国用户的视线，以其“通过信任圈子”传播服务信息的特色作为主要卖点，对抗见洞插针（probing）的防火墙系统。若要明白这款服务高调挑战防火墙背后的理由，还得先从它的核心技术Kaleidoscope说起。  
+近日一款叫做[Lantern](https://github.com/getlantern/lantern)的P2P网络封锁突破工具进入了中国用户的视线，以其“通过信任圈子”传播服务信息的特色作为主要卖点，对抗见洞插针（probing）的防火墙系统。若要明白这款服务高调挑战防火墙背后的理由，还得先从它的核心技术Kaleidoscope说起。  
   
 ![](https://dl.dropboxusercontent.com/u/3898221/lantern/lantern-500x333.jpg)   
 
