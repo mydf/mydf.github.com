@@ -13,13 +13,13 @@ tags: git
     git init 
 ###代码仓库加入到git：    
     git add . 
-###提交：  
+###提交：   
     git commit -m "repo"
-###密码：  
-  在home目录下建立一个文件名为：.netrc的文件，把https://code.google.com/hosting/settings上的登录名和密码复制粘贴到文件中，形如：    
+###密码：   
+  在home目录下建立一个文件名为：.netrc的文件，把<https://code.google.com/hosting/settings>上的登录名和密码复制粘贴到文件中，形如:      
     machine code.google.com login ybjqx3340@gmail.com password ytkGJ3fh23fkd 
-###代理：  
+###代理：   
     git config --global http.proxy "127.0.0.1:8087"   
-###上传：  
+###上传：   
     git push https://code.google.com/p/lee-lemmatizer/ master 
 这时你会看到输出告诉你正在上传，搞定。  
