@@ -7,7 +7,7 @@ tags: [Other]
 ---
 {% include JB/setup %}
 
-[上一篇文章](http://equation85.github.com/blog/blog-with-github-and-jekyll)中介绍了如何通过Github和Jekyll搭建个人博客。而要想方便的进行博客写作，那么Markdown是必不可少的工具。本文将通过一些简单的例子来说明Markdown的用法。
+[上一篇文章](http://mydf.github.io/blog/blog-with-github-and-jekyll)中介绍了如何通过Github和Jekyll搭建个人博客。而要想方便的进行博客写作，那么Markdown是必不可少的工具。本文将通过一些简单的例子来说明Markdown的用法。
 
 - - - 
 
