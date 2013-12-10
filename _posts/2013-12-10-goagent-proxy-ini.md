@@ -8,12 +8,8 @@ tags: goagent
 ---
  Goagent 3.1.0测试版 proxy.ini各项参数介绍
 
-{% highlight java %}
-public class HelloWorld {
-public static void main(String args[]) {
-System.out.println("Hello World!");
-}
-}
+{% highlight ruby %}
+
 [listen]
 #监听ip，如果需要允许局域网/公网使用，设为0.0.0.0即可
 ip = 127.0.0.1
