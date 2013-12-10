@@ -4,7 +4,7 @@ title: "Goagent 3.1.0更新proxy.ini各项参数介绍 "
 comments: true
 date: 2013-12-10 19:57
 categories: "网络"
-tags: goagent,墙
+tags: goagent
 ---
  Goagent 3.1.0测试版 proxy.ini各项参数介绍
 
