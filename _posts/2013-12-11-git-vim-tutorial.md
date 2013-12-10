@@ -7,9 +7,9 @@ categories: "备忘"
 tags: git
 ---
 
-分享Git时代VIM新世界的美丽动人之处  
+**分享Git时代VIM新世界的美丽动人之**  
 
-作者： [BeiYuu](http://beiyuu.com)   
+**作者： [BeiYuu](http://beiyuu.com)**   
 
 
 ##VIM的模式
