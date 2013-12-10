@@ -8,7 +8,12 @@ tags: goagent
 ---
  Goagent 3.1.0测试版 proxy.ini各项参数介绍
 
-```ruby
+{% highlight java %}
+public class HelloWorld {
+public static void main(String args[]) {
+System.out.println("Hello World!");
+}
+}
 [listen]
 #监听ip，如果需要允许局域网/公网使用，设为0.0.0.0即可
 ip = 127.0.0.1
@@ -39,8 +44,7 @@ obfuscate = 0
 validate = 0
 # 如果设置为 rc4 则开启rc4加密，需在password设置密码，否则不开启，一般mode为https时无需开启
 options =
-```
-```java
+
 
 # 匹配的会使用crlf并且直连，=后留空则使用远程DNS解析，也可以手动指定IP防止因解析失败而无法使用，将IP写等号后面。
 # google_hk则表示使用[iplist]中的google_hk下的IP，google_cn则表示使用[iplist]中的google_cn下的IP
@@ -154,4 +158,4 @@ server =
 enable = 1  
 timestamp = 1347983481
 tip = \u8bf7\u5173\u6ce8\u5317\u4eac\u5931\u5b66\u513f\u7ae5~~
-```
+{% endhighlight %}
