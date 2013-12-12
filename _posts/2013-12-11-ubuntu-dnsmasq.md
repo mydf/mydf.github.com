@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Ubuntu使用 dnsmasq作本地DNS缓存"
+title: "Ubuntu使用dnsmasq作本地DNS缓存"
 comments: true
 date: 2013-12-11 19:57
 categories: "备忘"
 tags: Ubuntu
 ---
+Dnsmasq是一个很实用的小工具，解决局域网的需求看来非常合适，特别是网关和防火墙上。  
+它同时也可以作为一个dns查询服务器，虽然不如bind等完善，但基本功能也够用了。  
+它可以提供如下几个实用的功能：  
+
+####1 提供dns服务
+
+####2 优先使用本地自定义dns
+
+####3 提供dhcp服务
 ### 安装 dnsmasq加速网络访问速度
 
     sudo apt-get install dnsmasq
