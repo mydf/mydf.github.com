@@ -1,6 +1,4 @@
-<script type='text/javascript' src='http://zor.livefyre.com/wjs/v1.0/javascripts/livefyre_init.js'></script>
-<script type='text/javascript'>
-    var fyre = LF({
-        site_id: {{ site.JB.comments.livefyre.site_id }}
-    });
-</script>
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1875437"></script>
+<!-- UY END -->
