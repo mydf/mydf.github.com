@@ -78,9 +78,9 @@ JB :
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
-  #
+  # facebook = duowen
   comments :
-    provider : facebook
+    provider : disqus
     disqus :
       short_name : mydf
     livefyre :
