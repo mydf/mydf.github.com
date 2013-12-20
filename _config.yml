@@ -81,7 +81,7 @@ JB :
   # facebook  
   #
     comments :
-    provider : disqus  
+    provider : livefyre
     disqus :
       short_name : mydf
     livefyre :
