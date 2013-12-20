@@ -4,7 +4,7 @@ permalink: /blog/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
-pygments: false
+pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -75,13 +75,12 @@ JB :
   tags_path : /tags.html
   about_path : /about.html
 
-  # Settings for comments helper
+ # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
-  # facebook  
   #
-    comments :
-    provider : livefyre
+  comments :
+    provider : facebook
     disqus :
       short_name : mydf
     livefyre :
