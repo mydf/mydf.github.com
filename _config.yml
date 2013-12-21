@@ -76,11 +76,11 @@ JB :
   about_path : /about.html
 
  # Settings for comments helper
-  # Set 'provider' to the comment provider you want to use.
+  # Set 'provider' to the comment provider you want to use.(facebook=duoshuo,livefyre=yan)
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : facebook
     disqus :
       short_name : mydf
     livefyre :
