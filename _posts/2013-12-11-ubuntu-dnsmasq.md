@@ -82,19 +82,17 @@ Dnsmasq是一个很实用的小工具，解决局域网的需求看来非常合�
 最后，留下自己的`dnsmasq.conf`设置备份。
 
     listen-address=127.0.0.1
-    #strict-order
-    no-hosts
+    strict-order
+    #no-hosts
+    #no-poll
     resolv-file=/etc/resolv.dnsmasq.conf
-    no-poll
+
     #反电信劫持－114导航
     bogus-nxdomain=218.30.64.194
     #bogus-nxdomain=67.215.66.132
     # Set the cachesize here.
     cache-size=2048
-    #host区段
-    #本机hosts
-    address=/tp.set/192.168.2.1
-    address=/dx.set/192.168.1.1
+
     #国内指定DNS
     server=/cn/114.114.114.114
     server=/taobao.com/114.114.114.114
@@ -103,11 +101,20 @@ Dnsmasq是一个很实用的小工具，解决局域网的需求看来非常合�
     server=/tdimg.com/114.114.114.114
     server=/weibo.com/114.114.114.114
     server=/weibo.cn/114.114.114.114
-    server=/xunlei.com/114.114.114.114
+    server=/xunlei.com/114.114.114.114  
+        
     #国外指定DNS
     server=/google.com/42.120.21.30
     server=/twitter.com/42.120.21.30
-    server=/facebook.com/42.120.21.30
-    server=/*.github.com/202.101.224.69
-    server=/*.github.io/202.101.224.69
+    server=/facebook.com/42.120.21.30  
+        
+    #host区段
+    #本机
+    address=/tp.set/192.168.2.1
+    address=/dx.set/192.168.1.1
+          
+    #其他
+    address=/t66y.com/184.154.128.246
+    #address=/github.com/192.30.252.131
+
 
