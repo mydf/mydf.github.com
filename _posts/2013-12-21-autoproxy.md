@@ -30,7 +30,8 @@ tags: 墙
     |https://spreadsheets.google.com
 
 ####三、禁止代理  
-    如果希望在某个网站禁止代理, 将 @@ 加在最前即可, 例如   
+
+如果希望在某个网站禁止代理, 将 @@ 加在最前即可, 例如   
 
     @@|https://autoproxy.org   
     @@||www.douban.com  
