@@ -8,6 +8,6 @@ title: "关于"
 
 Twitter：<https://twitter.com/MyDF>  
 Google+：<https://plus.google.com/u/0/+GANLEE/posts>  
-草榴：<http://184.154.128.246/index.php?u=239118&ext=1369d>
+草榴社区：<http://184.154.128.246/index.php?u=239118&ext=1369d>
 
 Email：<lsd2004@gmail.com>
